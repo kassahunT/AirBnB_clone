@@ -1,5 +1,5 @@
-# AirBnB_clone
-#Description
+#  AirBnB_clone
+# Description
 
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
@@ -18,7 +18,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 - Do operations on objects (count, compute stats, etc…)
 - Update attributes of an object
 - Destroy an object
-#Environment
+# Environment
 - Ubuntu 20.04
 
 - Python version: Python 3.10.5
@@ -31,5 +31,5 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 All the code is tested with the unittest module. The test for the classes are inthetest_models folder.
 
 # Authors
-- Kassahun Tilahun Tekelie <kassahunT>
+- Kassahun Tilahun Tekelie < kassahunT >
 - JOHNPAUL IMEOGU < Imeogu>
