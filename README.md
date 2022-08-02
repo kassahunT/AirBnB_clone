@@ -32,4 +32,4 @@ All the code is tested with the unittest module. The test for the classes are in
 
 # Authors
 - Kassahun Tilahun Tekelie <a href="https://github.com/kassahunT">kassahunT</a>
-- JOHNPAUL IMEOGU <a herf="https://github.com/Imeogu" >Imeogu></a>
+- JOHNPAUL IMEOGU <a herf="https://github.com/Imeogu" >Imeogu</a>
