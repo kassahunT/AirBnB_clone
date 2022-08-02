@@ -31,5 +31,5 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 All the code is tested with the unittest module. The test for the classes are inthetest_models folder.
 
 # Authors
-- Kassahun Tilahun Tekelie < ##kassahunT >
-- JOHNPAUL IMEOGU < ##Imeogu>
+- Kassahun Tilahun Tekelie < #kassahunT >
+- JOHNPAUL IMEOGU < #Imeogu>
