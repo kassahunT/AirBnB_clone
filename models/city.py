@@ -1,15 +1,13 @@
 #!/usr/bin/python3
-"""Defines the City class."""
+""" City class """
+
+import uuid
+from datetime import datetime
+from models import storage
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """Represent a city.
-
-    Attributes:
-        state_id (str): The state id.
-        name (str): The name of the city.
-    """
-
+    """ City class """
     state_id = ""
     name = ""
